@@ -1,0 +1,1 @@
+worker: python ascii_bot.py
